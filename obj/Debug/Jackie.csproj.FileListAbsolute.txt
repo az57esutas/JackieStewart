@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\gyaksziooop2\gyaksziooop2\bin\Debug\gyaksziooop2.exe.config
+C:\Users\Administrator\source\repos\gyaksziooop2\gyaksziooop2\bin\Debug\gyaksziooop2.exe
+C:\Users\Administrator\source\repos\gyaksziooop2\gyaksziooop2\bin\Debug\gyaksziooop2.pdb
+C:\Users\Administrator\source\repos\gyaksziooop2\gyaksziooop2\obj\Debug\Jackie.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\gyaksziooop2\gyaksziooop2\obj\Debug\Jackie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\gyaksziooop2\gyaksziooop2\obj\Debug\Jackie.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\gyaksziooop2\gyaksziooop2\obj\Debug\gyaksziooop2.exe
+C:\Users\Administrator\source\repos\gyaksziooop2\gyaksziooop2\obj\Debug\gyaksziooop2.pdb
